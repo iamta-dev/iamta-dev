@@ -1,8 +1,17 @@
 ## Full Stack Developer , DevOps 👋 Mobile dev , Web dev 
 ## 📋 Port : http://bit.ly/ntPort
 
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<i class="material-icons">face</i>
+
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Natthawat.
+</p>
+<p align='center'>For enquiries, reach out @ newler55@gmail.com or over on <a href="https://www.facebook.com/na10tthawat/">Facebook</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
+
+
 <!--
 **newler55/newler55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
