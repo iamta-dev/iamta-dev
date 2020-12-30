@@ -1,7 +1,8 @@
 ## Full Stack Developer , DevOps 👋 Mobile dev , Web dev 
 ## 📋 Port : http://bit.ly/ntPort
 
-
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<i class="material-icons">face</i>
 <!--
 **newler55/newler55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
