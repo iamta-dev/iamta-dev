@@ -1,8 +1,8 @@
 ## Full Stack Developer , DevOps 👋 Mobile dev , Web dev 
 ## 📋 Port : http://bit.ly/ntPort
 
-<p align='center'>
-[![Social banner for newler55](assets/1.png)](https://www.facebook.com/na10tthawat/)
+<p align="center">
+  <img src="assets/1.png" />
 </p>
 
 <h1 align='center'> Hi! :wave:</h1>
