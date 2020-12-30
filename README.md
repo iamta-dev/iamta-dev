@@ -1,5 +1,6 @@
-### Hi there 👋 Mobile dev , Web dev , Full Stack , DevOps 
-portfolio : http://bit.ly/ntPort
+## Full Stack Developer , DevOps 👋 Mobile dev , Web dev 
+## 📋 Port : http://bit.ly/ntPort
+
 
 <!--
 **newler55/newler55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
