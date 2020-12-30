@@ -2,7 +2,7 @@
 ## 📋 Port : http://bit.ly/ntPort
 
 
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+[![Social banner for newler55](assets/1.png)](https://www.facebook.com/na10tthawat/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Natthawat.
