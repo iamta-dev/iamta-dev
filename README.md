@@ -55,7 +55,7 @@
   <code><img title="Portfolio" height="25" src="icon/portfolio-2.svg"></code> PORTFOLIO : http://bit.ly/ntPort
 </p>
 <p align='center'>
-  <code><img title="Resume" height="25" src="icon/resume.svg"></code> RESUME : http://bit.ly/ntPort
+  <code><img title="Resume" height="25" src="icon/resume.svg"></code> RESUME : http://bit.ly/ntResume
 </p>
 
 <h1 align='center'><i>"Hello World" !</i></h1>
