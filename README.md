@@ -38,7 +38,7 @@
   <code><img title="Vue" height="25" src="icon/Vue.png"></code>
   <code><img title="Bootstrap" height="25" src="icon/Bootstrap.png"></code>
   <code><img title="Vuetify" height="25" src="icon/vuetify.png"></code>
-  <code><img title="NodeJs" height="25" src="icon/nodeJs"></code>
+  <code><img title="NodeJs" height="25" src="icon/nodeJs.png"></code>
   <code><img title="Php" height="25" src="icon/php.png"></code>
   <code><img title="AngularJS" height="25" src="icon/angularjs.png"></code>
   <code><img title="Firebase" height="25" src="icon/firebase.png"></code>
