@@ -52,7 +52,7 @@
 </p>
 
 <p align='center'>
-  📋 portfolio : http://bit.ly/ntPort
+  📋 PORTFOLIO : http://bit.ly/ntPort
 </p>
 
 <h1 align='center'><i>"Hello World" !</i></h1>
