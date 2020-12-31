@@ -59,4 +59,4 @@
   <code><img title="Resume" height="25" src="icon/resume.svg"></code> RESUME : http://bit.ly/ntResume
 </p>
 
-<h1 align='center'><i> echo "Hello World สวัสดีชาวโลก"; </i></h1>
+<h1 align='center'><i> echo "Hello World !"; </i></h1>
