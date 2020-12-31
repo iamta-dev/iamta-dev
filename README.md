@@ -48,7 +48,3 @@
 </p>
 
 <h1 align='center'><i>"Hello World" !</i></h1>
-
-<p align='center'>
-  <img align='center' src="assets/hello.gif" alt="Coder GIF" width="500" height="400">
-</p>
