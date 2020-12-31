@@ -33,6 +33,7 @@
   <code><img title="HTML5" height="25" src="icon/html5.svg"></code>
   <code><img title="CSS" height="25" src="icon/css.svg"></code>
   <code><img title="Docker" height="25" src="icon/docker.svg"></code>
+  <code><img title="kubernetes" height="25" src="icon/kubernetes.svg"></code>
   <code><img title="React" height="25" src="icon/react-original.svg"></code>
   <code><img title="react-native" height="25" src="icon/react-native.png"></code>
   <code><img title="Vue" height="25" src="icon/Vue.png"></code>
