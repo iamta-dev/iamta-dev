@@ -11,7 +11,9 @@
   <code><a href="https://www.line.com/na10tthawat/" title="Line Profile"><img width="22" src="icon/line.svg"> LINE</a></code>
 </h5>
 
-<img align='center' src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p align='center'>
+  <img align='center' src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
 
 <p align='center'>For enquiries, reach out @ newler55@gmail.com or over on <a href="https://www.facebook.com/na10tthawat/">Facebook</a>.</p>
 
@@ -21,3 +23,6 @@
 
 <h1 align='center'><i>"Hello World" !</i></h1>
 
+<p align='center'>
+  <img align='center' src="assets/hello.gif" alt="Coder GIF" width="500" height="400">
+</p>
