@@ -6,8 +6,7 @@
   <br>👋 Hi, I'm Ta Natthawat.<br>
   <br> I'm a Full Stack Developer , DevOps 👋 Mobile dev , Web dev . <br>
   <br>
-    <img src="https://gist.github.com/3ace2c813ca49546f3f5f20cd03a2d3e.git" alt="Coder GIF" width="500" height="400">
-  <script src="https://gist.github.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e.js"></script>
+    <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3> 
 
