@@ -44,7 +44,7 @@
   <code><img title="Firebase" height="25" src="icon/firebase.png"></code>
   <code><img title="MongoDb" height="25" src="icon/mongodb.jpeg"></code>
   <code><img title="Mysql" height="25" src="icon/mysql.svg"></code>
-  <code><img title="Oracle" height="25" src="icon/Oracle.png"></code>
+  <code><img title="Oracle" height="25" src="icon/oracle2.png"></code>
   <code><img title="Git" height="25" src="icon/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="icon/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="icon/visualstudio.png"></code>
