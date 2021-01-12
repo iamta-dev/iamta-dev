@@ -1,0 +1,66 @@
+
+### HOMEBREW
+https://brew.sh/index_th  | brew installing
+https://formulae.brew.sh | package manager
+ $  brew list > brew-list.txt
+ $  brew uninstall $(cat brew-list.txt)
+ $  brew install $(cat brew-list.txt)
+
+### javac | Development kit for the Java programming 
+brew install openjdk
+
+### Show or Hide Files
+cmd + shift + [.]
+
+### CleanMyMax X
+ $  Allow app downloaded Anywhere | sudo spctl --master-disable
+https://drive.google.com/file/d/1N-Um7PFjM7dsalGU7VGaixngoPmXox_1/view?usp=sharing
+
+
+### GIT
+ $  brew install git
+ $  git config --global user.name "newler55"
+ $  git config --global user.email "newler55@gmail.com"
+ $  cat .gitconfig
+ $  git clone https://github.com/newler55/KEY-SSH.git
+ $  cd .ssh
+ $  chmod 600 *
+ $  eval $(ssh-agent -s)
+ $  ssh-add id_rsa
+
+### node , yarn
+brew install node
+brew install yarn
+
+### Vscode install
+ $  sudo snap install --classic code
+sudo nano ~/.bashrc
+export PATH=$PATH:/snap/bin
+source ~/.bashrc
+
+### Discord
+
+
+### Zoom
+
+
+### OBS Studio
+
+
+### Atom
+
+### Sublime-text
+
+### Google-chrome
+
+### Firefox Extention 
+ - Enhancer for YouTube
+ - Simple Google Translate
+ - DownloadHelper | download vdo youtube
+
+https://github.com/felixchenfy/Realtime-Action-Recognition
+
+https://github.com/dakenan1/Realtime-Action-Recognition-Openpose
+
+https://github.com/dronefreak/human-action-classification
+https://dronefreak.github.io/human-action-classification/

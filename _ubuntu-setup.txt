@@ -1,0 +1,113 @@
+https://ubuntu.com/server/docs/package-management
+https://www.howtogeek.com/63997/how-to-install-programs-in-ubuntu-in-the-command-line/
+
+### Getting started
+ $ sudo apt update
+ $ sudo apt upgrade
+ $ sudo apt install nmap
+ $ sudo apt remove nmap
+ $ apt search package_name
+ $ apt show package_name
+
+### Bash shell
+ https://github.com/newler55/bash-shell
+
+### USB Wifi Tp-link Archer T4U
+ https://github.com/newler55/usb-wifi
+
+### Git 
+ $  sudo apt-get install snap
+ unzip | $ snap install p7zip-desktop --classic
+ $  sudo apt install git-all
+ $  git config --global user.name "newler55"
+ $  git config --global user.email "newler55@gmail.com"
+ $  cat .gitconfig
+ $  git clone https://github.com/newler55/KEY-SSH.git
+ $  cd .ssh
+ $  chmod 600 *
+ $  eval $(ssh-agent -s)
+ $  ssh-add id_rsa
+
+### Vscode install
+ $  sudo snap install --classic code
+sudo nano ~/.bashrc
+export PATH=$PATH:/snap/bin
+source ~/.bashrc
+
+### Discord
+ $  sudo snap install discord
+ $  sudo snap remove discord
+
+### Zoom
+ $  sudo snap install zoom-client
+
+### OBS Studio
+ $  sudo apt install obs-studio
+
+### Atom
+ https://linuxize.com/post/how-to-install-atom-text-editor-on-ubuntu-18-04/
+
+### Sublime-text
+ https://linuxize.com/post/how-to-install-sublime-text-3-on-ubuntu-18-04/
+
+### Google-chrome
+ $  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ $  sudo apt install ./google-chrome-stable_current_amd64.deb
+
+### Vlc
+ $  sudo snap install vlc
+
+### Color-picker
+ $  sudo snap install color-picker
+
+### CUT VDO 
+ https://www.openshot.org/ppa/
+ $  sudo add-apt-repository ppa:openshot.developers/ppa
+ $  sudo apt-get update
+ $  sudo apt-get install openshot-qt
+
+### Chrome Extention 
+ - Dark Mode
+ - Vue.js devtools
+ - Google Translate
+ - Live Server Web Extension
+
+### Firefox Extention 
+ - Enhancer for YouTube
+ - Simple Google Translate
+ - DownloadHelper | download vdo youtube
+
+### WineHQ - Running Windows Programs --
+ https://wiki.winehq.org/Download
+ $ wine --version
+ $ winecfg
+
+###  [ROM][Full Android PIE Emulator for PC][v.1.1] -- for Ubuntu
+https://www.videomap.it/forum/viewtopic.php?f=25&t=2106&sid=218a1dbe9ea8abdf617d1bf662a16d38
+
+###  Webcam on Linux
+ $ sudo apt-get install guvcview
+
+###  lutris 
+ https://lutris.net/downloads/
+ $ sudo apt remove lutris
+ $ sudo apt autoremove
+ GTAV - https://www.youtube.com/watch?v=rIEJAXCLU6s
+ Blizzard - https://www.youtube.com/watch?v=mdYACgvYGrE
+
+### Dark Theme In Ubuntu 18.04
+ $ sudo -s
+ $ apt install -y gnome-tweaks
+ $ apt-get install gnome-tweak-tool
+ $ gnome-tweaks
+app : adwaita-dark
+Cursor : DMZ-White
+Icons : Ubuntu-mono-dark
+
+
+
+
+
+
+
+
