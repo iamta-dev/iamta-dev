@@ -7,3 +7,9 @@
 <p align='center'>
   <img align='center' src="./img/MONOWHEELair.png" width="800" >
 </p>
+
+skateboards แฟชั่นสเก็ตบอร์ด สเก็ตบอร์ด สำหรับผู้เริ่มเล่น
+https://shopee.co.th/product/156245824/4316358366?smtt=0.0.9
+<p align='center'>
+  <img align='center' src="./img/skateboards.png" width="800" >
+</p>
