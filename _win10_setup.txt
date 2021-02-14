@@ -1,2 +1,46 @@
-How to Create Bootable Windows 10 USB in Ubuntu Linux
-https://www.youtube.com/watch?v=l-wKghiPAdI
+### How to Create Bootable Win10 on MacOS
+Install - virtualbox
+https://www.virtualbox.org/wiki/Downloads
+
+Enable usb2.0|3.0 ->setting->ports->usb3.0
+install -VirtualBox Extension Pack
+
+### Set keybord English(US)
+
+### Unstall nvidia driver
+https://www.guru3d.com/files-details/display-driver-uninstaller-download.html
+
+### Install nvidia driver
+https://www.nvidia.com/Download/index.aspx?lang=en-us
+
+### Install chocolatey
+https://chocolatey.org/install
+- git
+- Visual Studio Code
+- Brave Browser
+- winrar
+- vlc
+- zoom
+- obs-studio
+
+### Microsoft Store | Windows terminal preview
+https://stackoverflow.com/questions/56839307/adding-git-bash-to-the-new-windows-terminal
+
+### Microsoft office365
+https://www.office.com/
+
+### MiniTool Partition Wizard
+https://www.filehorse.com/download-partition-wizard-free/download/
+
+### Create Usb Bootable
+https://www.balena.io/etcher/
+http://rufus.ie/
+
+### IDM 6.38
+ - Chrome Browser Integration | IDMGCExt.crx
+https://www.youtube.com/watch?v=buw_JH3YMck
+https://www.internetdownloadmanager.com/register/new_faq/chrome_extension.html#:~:text=If%20you%20already%20added%20IDM,the%20image)%20for%20IDM%20extension.
+source: https://drive.google.com/file/d/1jCk2sBUXKlhNeFjXf41hjNH3mUez5xmZ/view?usp=sharing
+
+### ติดตั้ง Linux - Manjaro OS
+https://www.youtube.com/watch?v=tsn16UNN2lI&list=PLH2HhvKxVmTCtt5aNwxTrlTnZw0-A5LAY&index=2
