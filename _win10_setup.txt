@@ -18,10 +18,21 @@ https://chocolatey.org/install
 - git
 - Visual Studio Code
 - Brave Browser
+- google chrome
 - winrar
 - vlc
 - zoom
+- discord
 - obs-studio
+- TeamViewer
+- sublimetext
+
+### Microsoft Stroe
+- Mailee
+- Windows terminal preview
+- messenger
+- line
+- U NotePad
 
 ### Microsoft Store | Windows terminal preview
 https://stackoverflow.com/questions/56839307/adding-git-bash-to-the-new-windows-terminal
