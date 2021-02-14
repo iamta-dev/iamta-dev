@@ -32,7 +32,6 @@ https://chocolatey.org/install
 - Windows terminal preview
 - messenger
 - line
-- U NotePad
 
 ### Microsoft Store | Windows terminal preview
 https://stackoverflow.com/questions/56839307/adding-git-bash-to-the-new-windows-terminal
