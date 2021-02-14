@@ -1,66 +1,67 @@
+Human Action Recognition System
+Action Recognition
+Face Recognition
 
-### HOMEBREW
-https://brew.sh/index_th  | brew installing
-https://formulae.brew.sh | package manager
- $  brew list > brew-list.txt
- $  brew uninstall $(cat brew-list.txt)
- $  brew install $(cat brew-list.txt)
+https://medium.com/@jeongwhanchoi/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e
 
-### javac | Development kit for the Java programming 
-brew install openjdk
+https://www.youtube.com/watch?v=8N1RaQ007-8&list=PLH2HhvKxVmTCtt5aNwxTrlTnZw0-A5LAY
 
-### Show or Hide Files
-cmd + shift + [.]
+https://github.com/ohmyzsh/ohmyzsh
 
-### CleanMyMax X
- $  Allow app downloaded Anywhere | sudo spctl --master-disable
-https://drive.google.com/file/d/1N-Um7PFjM7dsalGU7VGaixngoPmXox_1/view?usp=sharing
+NTFS for Mac
+https://www.seagate.com/as/en/support/software/paragon/
 
+### App Store
+Xcode
+iMovie
+Magnet
+Manicon
+Quick View Calendar
+LINE
 
-### GIT
- $  brew install git
- $  git config --global user.name "newler55"
- $  git config --global user.email "newler55@gmail.com"
- $  cat .gitconfig
- $  git clone https://github.com/newler55/KEY-SSH.git
- $  cd .ssh
- $  chmod 600 *
- $  eval $(ssh-agent -s)
- $  ssh-add id_rsa
+### Homebrew
+https://brew.sh/
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+https://formulae.brew.sh/
+$ brew install git
+$ brew install --cask visual-studio-code
 
-### node , yarn
-brew install node
-brew install yarn
+### CleanMyMac X 4.6.1
+$ sudo spctl --master-disable
+https://drive.google.com/file/d/1GK5qcJcV-gCajJpJ_EEffLaaZrXO8ifJ/view?usp=sharing
 
-### Vscode install
- $  sudo snap install --classic code
-sudo nano ~/.bashrc
-export PATH=$PATH:/snap/bin
-source ~/.bashrc
+### Parallels_Desktop_16.0.1
+https://drive.google.com/file/d/11XQ36CY0VHkvyaRcQLo7vWiyOCa6RXNp/view?usp=sharing
+
+### Sejda PDF Desktop
+https://www.sejda.com/desktop
 
 ### Discord
+https://discord.com/
+
+### oh-my-zsh macOS
+https://ohmyz.sh/#install
+$ $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+$ compaudit
+$ sudo chmod g-w,o-w /usr/local/share/zsh
+$ sudo chmod g-w,o-w /usr/local/share/zsh/site-functions
+
+### Brave Browser
+https://brave.com/
+
+### nodeJS
+$ brew install node@12
+$ nano .zshrc
+export PATH="/usr/local/opt/node@12/bin:$PATH
+export LDFLAGS="-L/usr/local/opt/node@12/lib
+export CPPFLAGS="-I/usr/local/opt/node@12/include
+$ source .zshrc
+$ brew install openjdk@11
+$ nano .zshrc
+export PATH="/usr/local/opt/openjdk@11/bin:$PATH"
+export CPPFLAGS="-I/usr/local/opt/openjdk@11/include"
+$ source .zshrc
+$ javac --version
 
 
-### Zoom
 
-
-### OBS Studio
-
-
-### Atom
-
-### Sublime-text
-
-### Google-chrome
-
-### Firefox Extention 
- - Enhancer for YouTube
- - Simple Google Translate
- - DownloadHelper | download vdo youtube
-
-https://github.com/felixchenfy/Realtime-Action-Recognition
-
-https://github.com/dakenan1/Realtime-Action-Recognition-Openpose
-
-https://github.com/dronefreak/human-action-classification
-https://dronefreak.github.io/human-action-classification/
