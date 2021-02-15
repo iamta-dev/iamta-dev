@@ -1,15 +1,16 @@
-Human Action Recognition System
-Action Recognition
-Face Recognition
+### วิธีการสร้างตัวติดตั้งที่สามารถบูตได้สำหรับ macOS
+https://support.apple.com/th-th/HT201372
+https://www.youtube.com/watch?v=pRdrpIDgjGo
 
+### tmux-commands
 https://medium.com/@jeongwhanchoi/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e
 
+### Linux DEVENV - อยากเขียนโปรแกรมในลินุกซ์ต้องทำไง?
 https://www.youtube.com/watch?v=8N1RaQ007-8&list=PLH2HhvKxVmTCtt5aNwxTrlTnZw0-A5LAY
 
+### zsh-terminal
 https://github.com/ohmyzsh/ohmyzsh
 
-NTFS for Mac
-https://www.seagate.com/as/en/support/software/paragon/
 
 ### App Store
 Xcode
