@@ -26,6 +26,13 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 https://formulae.brew.sh/
 $ brew install git
 $ brew install --cask visual-studio-code
+$ brew install --cask zoom
+$ brew install --cask postman
+https://sqlitebrowser.org/dl/
+$ brew install --cask db-browser-for-sqlite
+
+### OBS Studio
+https://obsproject.com/download
 
 ### CleanMyMac X 4.6.1
 $ sudo spctl --master-disable
@@ -42,7 +49,7 @@ https://discord.com/
 
 ### oh-my-zsh macOS
 https://ohmyz.sh/#install
-$ $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 $ compaudit
 $ sudo chmod g-w,o-w /usr/local/share/zsh
 $ sudo chmod g-w,o-w /usr/local/share/zsh/site-functions
@@ -53,9 +60,9 @@ https://brave.com/
 ### nodeJS
 $ brew install node@12
 $ nano .zshrc
-export PATH="/usr/local/opt/node@12/bin:$PATH
-export LDFLAGS="-L/usr/local/opt/node@12/lib
-export CPPFLAGS="-I/usr/local/opt/node@12/include
+export PATH="/usr/local/opt/node@12/bin:$PATH"
+export LDFLAGS="-L/usr/local/opt/node@12/lib"
+export CPPFLAGS="-I/usr/local/opt/node@12/include"
 $ source .zshrc
 $ brew install openjdk@11
 $ nano .zshrc
