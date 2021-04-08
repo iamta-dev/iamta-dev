@@ -32,6 +32,7 @@ https://chocolatey.org/install
 - Windows terminal preview
 - messenger
 - line
+- Xodo
 
 ### Microsoft Store | Windows terminal preview
 https://stackoverflow.com/questions/56839307/adding-git-bash-to-the-new-windows-terminal
