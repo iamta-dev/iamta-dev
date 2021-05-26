@@ -15,7 +15,7 @@
   <img align='center' src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
-<p align='center'>For enquiries, reach out @ newler55@gmail.com or over on <a href="https://www.facebook.com/na10tthawat/">Facebook</a>.</p>
+<p align='center'>For enquiries, reach out @ natthawat.narin@gmail.com or over on <a href="https://www.facebook.com/na10tthawat/">Facebook</a>.</p>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
