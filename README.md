@@ -36,7 +36,10 @@
   <code><img title="kubernetes" height="25" src="icon/kubernetes.svg"></code>
   <code><img title="React" height="25" src="icon/react-original.svg"></code>
   <code><img title="react-native" height="25" src="icon/react-native.png"></code>
+  <code><img title="flutter" height="25" src="icon/flutter.svg"></code>
+  <code><img title="typescript" height="25" src="icon/typescript.svg"></code>
   <code><img title="Vue" height="25" src="icon/Vue.png"></code>
+  <code><img title="Tailwindcss.svg" height="25" src="icon/tailwindcss.svg"></code>
   <code><img title="Bootstrap" height="25" src="icon/Bootstrap.png"></code>
   <code><img title="Vuetify" height="25" src="icon/vuetify.png"></code>
   <code><img title="NodeJs" height="25" src="icon/nodeJs.png"></code>
