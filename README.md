@@ -59,7 +59,7 @@
   <code><img title="Portfolio" height="25" src="icon/portfolio-2.svg"></code> PORTFOLIO : http://bit.ly/taZgg-portfolio
 </p>
 <p align='center'>
-  <code><img title="Resume" height="25" src="icon/resume.svg"></code> RESUME : http://bit.ly/taZgg-resume
+  <code><img title="Resume" height="25" src="icon/resume.svg"></code> CV && RESUME : http://bit.ly/taZgg-cv
 </p>
 
 <h1 align='center'><i> echo "Hello World !"; </i></h1>
