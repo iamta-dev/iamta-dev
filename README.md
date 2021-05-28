@@ -5,6 +5,7 @@
  </abc>
 </h3> 
 <h5 align="center">
+  <code><a href="https://www.linkedin.com/in/natthawat-narin-475139209/" title="Linkedin Profile"><img width="22" src="icon/linkedin.svg"> LINKEDIN</a></code>
   <code><a href="mailto:natthawat.narin@gmail.com" title="Gmail Profile"><img width="22" src="icon/gmail.svg"> GMAIL</a></code>
   <code><a href="https://www.instagram.com/na10tthawat/" title="Instagram Profile"><img width="22" src="icon/instagram.svg"> INSTAGRAM</a></code>
   <code><a href="https://www.facebook.com/na10tthawat" title="Facebook Profile"><img width="22" src="icon/facebook.svg"> FACEBOOK</a></code>
