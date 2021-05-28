@@ -1,3 +1,6 @@
+### Wallpaper
+https://www.iphonemod.net/macos-11-big-sur-original-wallpaper.html
+
 ### Install chocolatey
 https://chocolatey.org/install
 choco install -y googlechrome firefox git vscode winrar vlc zoom 
