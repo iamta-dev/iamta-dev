@@ -1,44 +1,41 @@
-### How to Create Bootable Win10 on MacOS
-Install - virtualbox
-https://www.virtualbox.org/wiki/Downloads
-
-Enable usb2.0|3.0 ->setting->ports->usb3.0
-install -VirtualBox Extension Pack
-
-### Set keybord English(US)
-
-### Unstall nvidia driver
-https://www.guru3d.com/files-details/display-driver-uninstaller-download.html
-
-### Install nvidia driver
-https://www.nvidia.com/Download/index.aspx?lang=en-us
-
 ### Install chocolatey
 https://chocolatey.org/install
-- git
-- Visual Studio Code
-- Brave Browser
-- google chrome
-- winrar
-- vlc
-- zoom
-- discord
-- obs-studio
-- TeamViewer
-- sublimetext
+choco install -y googlechrome firefox git vscode winrar vlc zoom 
+choco install -y discord obs-studio sejda
+
+git clone https://github.com/taZgg/.ssh.git
+cd .ssh
+chmod 600 * 
+eval $(ssh-agent -s) 
+ssh-add id_rsa_odds
+
+git config --global user.name "taZgg"
+git config --global user.email "natthawat.narin@odds.team"
+cat .gitconfig
 
 ### Microsoft Stroe
-- Mailee
-- Windows terminal preview
+- EarTrumpet
+- Mailee | Mail
+- Windows terminal
 - messenger
 - line
-- Xodo
+- xodo
 
-### Microsoft Store | Windows terminal preview
+### Font
+http://www.sut.ac.th/2012/SUT_IDENTITY/SUT_Font/TTF Files.zip
+Thai Sarabun New
+
+### Microsoft Store | Windows terminal 
 https://stackoverflow.com/questions/56839307/adding-git-bash-to-the-new-windows-terminal
+
+### Modernize Windows 10 with these FREE tweaks and tools
+https://www.youtube.com/watch?v=GzqIzBn5WLA
 
 ### Microsoft office365
 https://www.office.com/
+
+### Turn Windows features on or off
+enabled Windowws Subsystem for linux
 
 ### MiniTool Partition Wizard
 https://www.filehorse.com/download-partition-wizard-free/download/
@@ -55,3 +52,8 @@ source: https://drive.google.com/file/d/1jCk2sBUXKlhNeFjXf41hjNH3mUez5xmZ/view?u
 
 ### ติดตั้ง Linux - Manjaro OS
 https://www.youtube.com/watch?v=tsn16UNN2lI&list=PLH2HhvKxVmTCtt5aNwxTrlTnZw0-A5LAY&index=2
+
+### dev
+choco install -y docker-desktop | https://www.docker.com/products/docker-desktop
+choco install -y androidstudio | https://developer.android.com/studio
+choco install -y nodejs yarn
