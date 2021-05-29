@@ -31,6 +31,18 @@ cat .gitconfig
 - xodo
 - EasyMail for Gmail
 
+### Firefox Extention 
+- Take Webpage Screenshots Entirely - FireShot
+- Vue.js devtools
+- React Developer Tools
+- Enhancer for YouTube
+- Dark Mode
+- Translate Web Pages
+
+### Chrome Extention 
+- Google Translate
+- Live Server Web Extension
+
 ### Font
 http://www.sut.ac.th/2012/SUT_IDENTITY/SUT_Font/TTF Files.zip
 Thai Sarabun New
