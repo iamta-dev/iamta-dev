@@ -2,6 +2,9 @@
 
 ### WLS
 https://devahoy.com/blog/2020/09/hello-windows-10/
+### Plugin ใน zsh (Pimp Your Terminal!)
+https://www.youtube.com/watch?v=EodChTDBq3E
+
 https://medium.com/grean-developers-family/ของมันต้องมี-ต้องใช้-z-shell-zsh-คลูๆ-บน-windows-10-vscode-f5ba3a8dc493
 https://medium.com/@hjgraca/style-your-windows-terminal-and-wsl2-like-a-pro-9a2e1ad4c9d0
 https://github.com/Powerlevel9k/powerlevel9k/wiki/Stylizing-Your-Prompt
