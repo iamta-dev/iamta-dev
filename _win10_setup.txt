@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=m8DmxtlUMIc
 ### Install chocolatey
 https://chocolatey.org/install
 choco install -y googlechrome firefox git vscode winrar vlc zoom 
-choco install -y discord obs-studio sejda
+choco install -y discord obs-studio sejda neovim
 
 git clone https://github.com/taZgg/.ssh.git
 cd .ssh

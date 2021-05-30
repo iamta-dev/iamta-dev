@@ -1,0 +1,8 @@
+$ code .zshrc
+
+abbr list
+abbr add ls="ll -a"
+abbr add --force vi=nvim
+
+abbr erase l
+abbr erase la

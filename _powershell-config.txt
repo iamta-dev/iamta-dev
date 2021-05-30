@@ -1,0 +1,37 @@
+Invoke-Expression (&starship init powershell)
+
+Import-Module posh-git
+Import-Module oh-my-posh
+
+function op {explorer .}
+function user {cd ~}
+function ws {Set-Location C:\Users\natthawat" "narin\ws}
+function gga {git add .}
+function ggs {git status}
+function ggp {git push}
+function ggu {git pull}
+
+Import-Module PSReadLine
+
+# Shows navigable menu of all options when hitting Tab
+Set-PSReadLineKeyHandler -Key Tab -Function MenuComplete
+
+# Autocompleteion for Arrow keys
+Set-PSReadLineOption -HistorySearchCursorMovesToEnd
+Set-PSReadLineKeyHandler -Key UpArrow -Function HistorySearchBackward
+Set-PSReadLineKeyHandler -Key DownArrow -Function HistorySearchForward
+
+Set-PSReadLineOption -ShowToolTips
+Set-PSReadLineOption -PredictionSource History
+
+#Set the color for Prediction (auto-suggestion)
+Set-PSReadLineOption -Colors @{InlinePrediction = "DarkGreen"}
+
+Import-Module Get-ChildItemColor
+If (-Not (Test-Path Variable:PSise)) {  # Only run this in the console and not in the ISE
+    Import-Module Get-ChildItemColor
+    
+    Set-Alias l Get-ChildItem -option AllScope
+    Set-Alias ls Get-ChildItemColorFormatWide -option AllScope
+}
+
