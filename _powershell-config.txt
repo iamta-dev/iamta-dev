@@ -6,8 +6,13 @@ Import-Module oh-my-posh
 function op {explorer .}
 function user {cd ~}
 function ws {Set-Location C:\Users\natthawat" "narin\ws}
-function gga {git add .}
 function ggs {git status}
+function ggc ([string]$msg)
+{
+    git commit -m "${msg}"
+}
+
+function gga {git add .}
 function ggp {git push}
 function ggu {git pull}
 
