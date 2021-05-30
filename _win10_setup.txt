@@ -1,7 +1,6 @@
 ### CPU-Z
 
 ### WLS
-https://devahoy.com/blog/2020/09/hello-windows-10/
 ### Plugin ใน zsh (Pimp Your Terminal!)
 https://www.youtube.com/watch?v=EodChTDBq3E
 
@@ -17,7 +16,11 @@ http://www.sut.ac.th/2012/SUT_IDENTITY/SUT_Font/TTF Files.zip
 Thai Sarabun New
 
 ### oh-my-posh
+https://devahoy.com/blog/2020/09/hello-windows-10/
 https://dev.to/somprasongd/oh-my-posh-18ef
+
+### สอนการใช้งาน Vim - VScode เครื่องมือที่ช่วยให้เราเขียนโค้ดไวขึ้น 999%
+https://www.youtube.com/watch?v=m8DmxtlUMIc
 
 ### Install chocolatey
 https://chocolatey.org/install
