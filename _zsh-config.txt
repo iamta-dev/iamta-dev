@@ -6,3 +6,8 @@ abbr add --force vi=nvim
 
 abbr erase l
 abbr erase la
+
+abbr add ggp="git push"
+abbr add ggu="git pull"
+abbr add gga="git add ."
+abbr add ggc="git commit -m '"
