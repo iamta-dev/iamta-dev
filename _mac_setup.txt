@@ -1,3 +1,6 @@
+### vs-code
+font: Menlo, Monaco, 'Courier New', monospace
+
 ### วิธีการสร้างตัวติดตั้งที่สามารถบูตได้สำหรับ macOS
 https://support.apple.com/th-th/HT201372
 https://www.youtube.com/watch?v=pRdrpIDgjGo
