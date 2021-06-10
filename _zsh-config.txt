@@ -6,11 +6,14 @@ abbr add --force vi=nvim
 
 abbr erase l
 abbr erase la
+abbr erase dd-u
+abbr erase dd-d
 
 abbr add --force ggp="git push"
 abbr add --force ggu="git pull"
 abbr add ggs="git status"
 abbr add ggb="git branch"
+abbr add ggmo="git merge origin/develop --no-ff"
 abbr add --force ggl="git log --graph"
 abbr add dev="yarn dev"
 abbr add ggfo="git fetch origin"
@@ -23,6 +26,6 @@ abbr add sp="code ~/taZgg"
 abbr add wpea="code ~/ws"
 abbr add vas="cd ~/ws/vas-pea"
 abbr add --force vis="cd ~/ws/vis-pea-api"
-abbr add dd-u="docker-compose -f ./docker-compose.db.yml up -d"
-abbr add dd-d="docker-compose -f ./docker-compose.db.yml down"
+abbr add ddu="docker-compose -f ./docker-compose.db.yml up -d"
+abbr add ddd="docker-compose -f ./docker-compose.db.yml down"
 
