@@ -8,7 +8,7 @@ abbr erase l
 abbr erase la
 abbr erase dd-u
 abbr erase dd-d
-
+abbr add ggrc="git commit --amend"
 abbr add --force ggp="git push"
 abbr add --force ggu="git pull"
 abbr add ggs="git status"
@@ -28,4 +28,14 @@ abbr add vas="cd ~/ws/vas-pea"
 abbr add --force vis="cd ~/ws/vis-pea-api"
 abbr add ddu="docker-compose -f ./docker-compose.db.yml up -d"
 abbr add ddd="docker-compose -f ./docker-compose.db.yml down"
+abbr add --force vi="nvim"
+abbr add --force ls="exa --icons"
+abbr add --force lsa="exa -a --icons"
+abbr add --force l="exa -l --icons"
+abbr add --force la="exa -l -a --icons"
+abbr add --force lst="exa --icons --tree"
+abbr add --force lsat="exa -a --icons --tree"
+abbr add --force lt="exa -l --icons --tree"
+abbr add --force lat="exa -l -a --icons --tree"
+
 
