@@ -1,3 +1,7 @@
+### google chrome | Force Dark Mode for Web Contents
+chrome://flags/
+
+
 ### CPU-Z
 
 ### WLS
