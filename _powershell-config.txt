@@ -30,15 +30,44 @@ function ws {Set-Location C:\Users\taZgg\workspace}
 function pea {Set-Location C:\Users\taZgg\pea}
 function vas {Set-Location C:\Users\taZgg\pea\vas-pea}
 function vis {Set-Location C:\Users\taZgg\pea\vis-pea-api}
-function ggs {git status}
-function ggc ([string]$msg)
-{
-    echo 'git commit'
-    git commit -m "${msg}"
-}
-
 function gga {git add .}
 function ggp {git push}
 function ggu {git pull}
-function ddd {docker-compose -f .\docker-compose.db.yml down}
-function ddu {docker-compose -f .\docker-compose.db.yml up -d}
+function ggc ([string]$msg)
+{
+    git commit -m "${msg}"
+}
+function ggs {git status}
+function ggb {git branch}
+function ggl {git log --graph}
+function ggb-d 
+{
+    echo 'git branch | grep -v "master" | xargs git branch -D'  
+    git branch | grep -v "master" | xargs git branch -D
+}
+function gg-rs 
+{
+    echo 'git reset --hard'  
+    git reset --hard 
+}
+function ggfo 
+{
+    echo 'git fetch origin'  
+    git fetch origin 
+}
+function ggmo 
+{
+    echo 'git merge origin/develop --no-ff'  
+    git merge origin/develop --no-ff
+}
+
+function ddd 
+{
+    echo 'docker-compose -f .\docker-compose.db.yml down'  
+    docker-compose -f .\docker-compose.db.yml down
+}
+function ddu 
+{
+    echo 'docker-compose -f .\docker-compose.db.yml up -d'  
+    docker-compose -f .\docker-compose.db.yml up -d
+}
