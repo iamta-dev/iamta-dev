@@ -39,8 +39,9 @@ $ brew install --cask db-browser-for-sqlite
 
 ### OBS Studio
 https://obsproject.com/download
-fix Display audio BlackHole2ch.v0.2.10.pkg
-https://drive.google.com/file/d/1aYhjY77e6ROychZN4H0FqQz7eQ8Qf-yl/view?usp=sharing
+fix Display audio app: Audio MIDI Setup
+file BlackHole2ch.v0.2.10.pkg: https://drive.google.com/file/d/1aYhjY77e6ROychZN4H0FqQz7eQ8Qf-yl/view?usp=sharing
+
 
 
 ### CleanMyMac X 4.6.1
