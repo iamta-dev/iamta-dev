@@ -24,10 +24,11 @@ abbr add dev="yarn dev"
 abbr add start="yarn dev"
 abbr add start="yarn main"
 
-
 abbr add ws="cd ~/ws"
 abbr add ddu="docker-compose -f ./docker-compose.db.yml up -d"
 abbr add ddd="docker-compose -f ./docker-compose.db.yml down"
+
+abbr add --force ssh="cd ~/.ssh && ssh-add id_rsa_blockfint"
 
 
 
