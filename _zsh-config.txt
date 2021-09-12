@@ -1,41 +1,34 @@
-$ code .zshrc
+$ brew install exa
+NOTE: abbr => list ,add ,add --force,erase
 
-abbr list
-abbr add ls="ll -a"
-abbr add --force vi=nvim
-
-abbr erase l
-abbr erase la
-abbr erase dd-u
-abbr erase dd-d
-abbr add ggrc="git commit --amend"
-abbr add --force ggp="git push"
-abbr add --force ggu="git pull"
-abbr add ggs="git status"
-abbr add ggb="git branch"
-abbr add ggmo="git merge origin/develop --no-ff"
-abbr add --force ggl="git log --graph"
-abbr add dev="yarn dev"
-abbr add ggfo="git fetch origin"
-abbr add gga="git add ."
-abbr add gg-rs="git reset --hard"
-abbr add ggc="git commit -m '"
-abbr add ggb-d="git branch | grep -v "master" | xargs git branch -D"
-abbr add ws="cd ~/ws"
-abbr add sp="code ~/taZgg"
-abbr add wpea="code ~/ws"
-abbr add vas="cd ~/ws/vas-pea"
-abbr add --force vis="cd ~/ws/vis-pea-api"
-abbr add ddu="docker-compose -f ./docker-compose.db.yml up -d"
-abbr add ddd="docker-compose -f ./docker-compose.db.yml down"
-abbr add --force vi="nvim"
 abbr add --force ls="exa --icons"
 abbr add --force lsa="exa -a --icons"
-abbr add --force l="exa -l --icons"
-abbr add --force la="exa -l -a --icons"
-abbr add --force lst="exa --icons --tree"
-abbr add --force lsat="exa -a --icons --tree"
-abbr add --force lt="exa -l --icons --tree"
-abbr add --force lat="exa -l -a --icons --tree"
+abbr add --force ll="exa -l --icons"
+abbr add --force lla="exa -l -a --icons"
+
+
+abbr add --force ggu="git pull"
+abbr add --force gga="git add ."
+abbr add --force ggc="git commit -m '"
+abbr add --force ggrc="git commit --amend"
+abbr add --force ggp="git push"
+abbr add --force ggs="git status"
+abbr add --force ggb="git branch"
+abbr add ggbD="git branch | grep -v "master" | xargs git branch -D"
+abbr add --force ggf="git fetch"
+abbr add --force ggfo="git fetch origin"
+abbr add --force ggrsH="git reset --hard"
+abbr add --force ggl="git log --graph"
+
+abbr add dev="yarn dev"
+abbr add start="yarn dev"
+abbr add start="yarn main"
+
+
+abbr add ws="cd ~/ws"
+abbr add ddu="docker-compose -f ./docker-compose.db.yml up -d"
+abbr add ddd="docker-compose -f ./docker-compose.db.yml down"
+
+
 
 
