@@ -5,7 +5,7 @@
  </abc>
 </h3> 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/natthawat-narin-475139209/" title="Linkedin Profile"><img width="22" src="icon/linkedin.svg"> LINKEDIN</a></code>
+  <code><a href="https://www.linkedin.com/in/ta-natthawat/" title="Linkedin Profile"><img width="22" src="icon/linkedin.svg"> LINKEDIN</a></code>
   <code><a href="mailto:natthawat.narin@gmail.com" title="Gmail Profile"><img width="22" src="icon/gmail.svg"> GMAIL</a></code>
   <code><a href="https://www.instagram.com/na10tthawat/" title="Instagram Profile"><img width="22" src="icon/instagram.svg"> INSTAGRAM</a></code>
   <code><a href="https://www.facebook.com/na10tthawat" title="Facebook Profile"><img width="22" src="icon/facebook.svg"> FACEBOOK</a></code>
@@ -57,10 +57,10 @@
 </p>
 
 <p align='center'>
-  <code><img title="Portfolio" height="25" src="icon/portfolio-2.svg"></code> PORTFOLIO : http://bit.ly/taZgg-portfolio
+  <code><img title="Portfolio" height="25" src="icon/portfolio-2.svg"></code> PORTFOLIO : https://bit.ly/Natthawat-Portfolio
 </p>
 <p align='center'>
-  <code><img title="Resume" height="25" src="icon/resume.svg"></code> CV && RESUME : http://bit.ly/taZgg-cv
+  <code><img title="Resume" height="25" src="icon/resume.svg"></code> CV && RESUME : https://bit.ly/Natthawat-CV
 </p>
 
 <h1 align='center'><i> echo "Hello World !"; </i></h1>
