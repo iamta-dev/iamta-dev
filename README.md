@@ -7,9 +7,6 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ta-natthawat/" title="Linkedin Profile"><img width="22" src="icon/linkedin.svg"> LINKEDIN</a></code>
   <code><a href="mailto:natthawat.narin@gmail.com" title="Gmail Profile"><img width="22" src="icon/gmail.svg"> GMAIL</a></code>
-  <code><a href="https://www.instagram.com/na10tthawat/" title="Instagram Profile"><img width="22" src="icon/instagram.svg"> INSTAGRAM</a></code>
-  <code><a href="https://www.facebook.com/na10tthawat" title="Facebook Profile"><img width="22" src="icon/facebook.svg"> FACEBOOK</a></code>
-  <code><a href="https://line.me/ti/p/ga7lKBCyJS" title="Line Profile"><img width="22" src="icon/line.svg"> LINE</a></code>
 </h5>
 
 <p align='center'>
@@ -60,7 +57,7 @@
   <code><img title="Portfolio" height="25" src="icon/portfolio-2.svg"></code> PORTFOLIO Period 2020 - 2021 : https://bit.ly/Natthawat-Portfolio
 </p>
 <p align='center'>
-  <code><img title="Resume" height="25" src="icon/resume.svg"></code> CV && RESUME : https://bit.ly/Natthawat-CV
+  <code><img title="Resume" height="25" src="icon/resume.svg"></code> CV && RESUME : [Natthawat-Resume](https://bit.ly/Natthawat-Resume)
 </p>
 
 <h1 align='center'><i> echo "Hello World !"; </i></h1>
