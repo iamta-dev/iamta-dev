@@ -57,7 +57,7 @@
   <code><img title="Portfolio" height="25" src="icon/portfolio-2.svg"></code> PORTFOLIO Period 2020 - 2021 : https://bit.ly/Natthawat-Portfolio
 </p>
 <p align='center'>
-  <code><img title="Resume" height="25" src="icon/resume.svg"></code> CV && RESUME : [Natthawat-Resume](https://bit.ly/Natthawat-Resume)
+  <code><img title="Resume" height="25" src="icon/resume.svg"></code> CV && RESUME : https://bit.ly/Natthawat-Resume
 </p>
 
 <h1 align='center'><i> echo "Hello World !"; </i></h1>
