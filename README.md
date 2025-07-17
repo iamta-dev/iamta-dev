@@ -5,7 +5,6 @@
  </abc>
 </h3> 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ta-natthawat/" title="Linkedin Profile"><img width="22" src="icon/linkedin.svg"> LINKEDIN</a></code>
   <code><a href="mailto:natthawat.narin@gmail.com" title="Gmail Profile"><img width="22" src="icon/gmail.svg"> GMAIL</a></code>
 </h5>
 
@@ -54,10 +53,7 @@
 </p>
 
 <p align='center'>
-  <code><img title="Portfolio" height="25" src="icon/portfolio-2.svg"></code> PORTFOLIO Period 2020 - 2021 : https://bit.ly/Natthawat-Portfolio
-</p>
-<p align='center'>
-  <code><img title="Resume" height="25" src="icon/resume.svg"></code> CV && RESUME : https://bit.ly/Natthawat-Resume
+  <code><img title="Resume" height="25" src="icon/resume.svg"></code> CV && RESUME : www.nthw.dev
 </p>
 
 <h1 align='center'><i> echo "Hello World !"; </i></h1>
