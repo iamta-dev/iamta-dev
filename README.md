@@ -1,7 +1,7 @@
 <h3 align="center">
  <abc>
   <br>👋 Hi, I'm Ta Natthawat.<br>
-  <br> I'm a Full Stack Developer , DevOps , Mobile dev , Web dev <br>
+  <br> I'm a Senior Full Stack Developer , DevOps , Mobile dev , Web dev <br>
  </abc>
 </h3> 
 <h5 align="center">
@@ -12,7 +12,7 @@
   <img align='center' src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
-<p align='center'>For enquiries, reach out <a href="mailto:natthawat.narin@gmail.com" title="Gmail Profile">natthawat.narin@gmail.com</a> or over on <a href="https://www.facebook.com/na10tthawat/">Facebook</a>.</p>
+<p align='center'>For enquiries, reach out <a href="mailto:natthawat.narin@gmail.com" title="Gmail Profile">natthawat.narin@gmail.com</a> or over on <a href="https://www.facebook.com/tah.nthw/">Facebook</a>.</p>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
